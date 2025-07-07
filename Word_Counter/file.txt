@@ -1,0 +1,3 @@
+I Love Learning rust.
+This is a sample file. 
+I want to use rust to read the file content.
